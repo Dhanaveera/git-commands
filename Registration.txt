@@ -4,9 +4,7 @@
 Student Registration Page  
 </title>  
 </head>  
-<body bgcolor="Lightskyblue">  
-<br>
-<br>  
+<body bgcolor="Lightskyblue">    
 <form>  
   
 <label> Firstname </label>         
